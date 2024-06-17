@@ -12,6 +12,10 @@ gem "jekyll", "~> 4.1"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem "csv"
+gem "base64"
+gem "sassc", "~> 2.4"
+
 #source "https://rubygems.org"
 
 #gem "github-pages", "~> 231", group: :jekyll_plugins
