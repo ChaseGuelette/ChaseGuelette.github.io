@@ -12,6 +12,16 @@ gem "jekyll", "~> 4.1"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem "csv"
+gem "base64"
+gem "sassc", "~> 2.4"
+
+#source "https://rubygems.org"
+
+#gem "github-pages", "~> 231", group: :jekyll_plugins
+#gem "jekyll-theme-hydejack"
+
+
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
 #
@@ -50,6 +60,6 @@ group :jekyll_plugins do
   gem "jekyll-compose"
 end
 
-gem 'wdm' if Gem.win_platform?
+#gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 
