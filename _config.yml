@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Chase Guelette Personal Blog
+title:                 Chase Guelette Portfolio Website 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -49,9 +49,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Projects
     url:               /example/
-  - title:             Documentation
+  - title:             Personal Blog
     url:               /docs/
   - title:             About
     url:               /about/
