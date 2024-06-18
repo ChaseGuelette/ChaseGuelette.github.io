@@ -1,6 +1,19 @@
 ---
-title: Binary Alphabet Conversions C++ Project
-description: A program to convert between binary alphabet setup and integer values
+layout:      project
+title:       Binary Alphabet Conversions C++ Project
+date:        17 June 2024 
+image:
+  path:       /assets/img/projects/hyde-v2@0,25x.jpg
+  srcset:
+    1920w:   /assets/img/projects/hyde-v2.jpg
+    960w:    /assets/img/projects/hyde-v2@0,5x.jpg
+    480w:    /assets/img/projects/hyde-v2@0,25x.jpg
+caption:     Hyde is a brazen two-column Jekyll theme.
+description: 
+  A program to convert between binary alphabet setup and integer values
+links:
+
+featured:    false
 ---
 
 ## Rock Paper Scissors 

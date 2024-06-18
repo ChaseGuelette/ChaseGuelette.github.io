@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Rock Paper Scissors C++ Projects
-date:        2 Jan 2014
+date:        17 June 2024 
 image:
   path:       /assets/img/projects/hyde-v2@0,25x.jpg
   srcset:

@@ -1,6 +1,19 @@
 ---
-title: Illuminati Pyramid Generator C++ Project
-description: Generates a Pyramid of a specificed 'height' that has an eye in the middle 
+layout:      project
+title:       Illuminati Pyramid Generator C++ Project
+date:        17 June 2024 
+image:
+  path:       /assets/img/projects/hyde-v2@0,25x.jpg
+  srcset:
+    1920w:   /assets/img/projects/hyde-v2.jpg
+    960w:    /assets/img/projects/hyde-v2@0,5x.jpg
+    480w:    /assets/img/projects/hyde-v2@0,25x.jpg
+caption:     Hyde is a brazen two-column Jekyll theme.
+description: 
+  Generates a Pyramid of a specificed 'height' that has an eye in the middle
+links:
+
+featured:    false
 ---
 
 ## Rock Paper Scissors 
