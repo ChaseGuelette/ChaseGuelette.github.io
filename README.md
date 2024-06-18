@@ -1,20 +1,13 @@
-# Hydejack Starter Kit
+# Chase Guelette Project and Resume Page
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+The files included in this repository are projects created by chase guelette. 
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+# About 
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+Hi! I’m Chase, a CSE Student based out of Michigan State Unversity. I super passionate about Software design, and have been coding since highschool!
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+I’ve taken coursework at MSU up to CSE 232 (As of June 17th, 2024), along with building a number of personal projects that you could see on this website!
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+I’m proficent in C++, Java, JavaScript, and HTML/CSS.
+
+I’m currently working on a small startup with two of my freinds, and in my free time I love to read, Kickbox, and spend time with my family.
