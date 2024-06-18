@@ -2,17 +2,8 @@
 layout:      projects
 title:       Tic Tac Toe C++ Project
 date:        17 June 2024 
-image:
-  path:       /assets/img/projects/hyde-v2@0,25x.jpg
-  srcset:
-    1920w:   /assets/img/projects/hyde-v2.jpg
-    960w:    /assets/img/projects/hyde-v2@0,5x.jpg
-    480w:    /assets/img/projects/hyde-v2@0,25x.jpg
-caption:     Hyde is a brazen two-column Jekyll theme.
 description: 
   A simple tic tac toe game written in c++ - this program is designed to take an input of numbers and output which person side wins the game
-links:
-
 featured:    false
 ---
 
