@@ -1,5 +1,5 @@
 ---
-layout:      project
+layout:      projects
 title:       Rock Paper Scissors C++ Projects
 date:        17 June 2024 
 image:

@@ -1,5 +1,5 @@
 ---
-layout:      project
+layout:      projects
 title:       Illuminati Pyramid Generator C++ Project
 date:        17 June 2024 
 image:

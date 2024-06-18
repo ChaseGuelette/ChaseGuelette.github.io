@@ -1,5 +1,5 @@
 ---
-layout:      project
+layout:      projects
 title:       Binary Alphabet Conversions C++ Project
 date:        17 June 2024 
 image:
