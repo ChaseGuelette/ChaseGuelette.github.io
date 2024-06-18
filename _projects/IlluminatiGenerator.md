@@ -16,7 +16,7 @@ links:
 featured:    false
 ---
 
-## Rock Paper Scissors 
+## Illuminati Generator
 
 This program is designed to use a series of cout prompts to build a pyramid of asteriks "*" of a certain height, specified by the user.  
 

@@ -16,7 +16,7 @@ links:
 featured:    false
 ---
 
-## Rock Paper Scissors 
+## Binary Alphabet Conversions 
 
 This project is bascially a program that can work conversions between binary alphabet setups.  
 
