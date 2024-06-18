@@ -1,7 +1,21 @@
 ---
-title: Rock Paper Scissors C++ Projects
-description: A simple rock paper scissors game built in c++, runs between player and computer
+layout:      project
+title:       Rock Paper Scissors C++ Projects
+date:        2 Jan 2014
+image:
+  path:       /assets/img/projects/hyde-v2@0,25x.jpg
+  srcset:
+    1920w:   /assets/img/projects/hyde-v2.jpg
+    960w:    /assets/img/projects/hyde-v2@0,5x.jpg
+    480w:    /assets/img/projects/hyde-v2@0,25x.jpg
+caption:     Hyde is a brazen two-column Jekyll theme.
+description: >
+  A simple rock paper scissors game built in c++, runs between player and computer
+links:
+
+featured:    false
 ---
+
 
 ## Rock Paper Scissors 
 
