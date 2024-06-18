@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Projects
     url:               /_projects/
-  - title:             Personal Blog
-    url:               /docs/
+#  - title:             Personal Blog
+#    url:               /docs/
   - title:             About
     url:               /about/
 
@@ -115,7 +115,7 @@ defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
   - scope:
-      path:            _projects/
+      path:            hyde/
     values:
       accent_color:    rgb(38,139,210)
       theme_color:     rgb(32,32,32)
@@ -363,7 +363,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<ChaseGuelette>
 
 
 # Plugin Configs
